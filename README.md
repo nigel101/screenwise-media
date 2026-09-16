@@ -1,2 +1,3 @@
-# screenwise-media
-Public hosting for Screenwise LinkedIn ad creatives
+# Screenwise media
+
+Public creatives for Buffer / LinkedIn. Files in `/ads` are safe to hotlink.
