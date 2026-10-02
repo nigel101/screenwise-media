@@ -1,0 +1,61 @@
+ADAM — GNOSTIC MUSIC VIDEO CHORUS REFERENCE KIT
+
+GOAL
+Create a sequence of cinematic 16:9 still images for a long-form YouTube music video covering roughly 30–60 seconds of the chorus. Use ADAM_REFERENCE_SHEET.jpg as the canonical visual reference.
+
+CHORUS
+They pulled him down with jealous will,
+A silent force, precise and still,
+No justice weighed, no balance kept,
+Just power where the rulers crept.
+They dimmed the light, restrained the breath,
+They bound the mind in living death—
+Into the shadow of death
+No cry was heard, no war was fought,
+Just descent into what they wrought.
+
+REFERENCE RULES
+1. ADAM CLEAN / IDENTITY is the primary identity anchor. Preserve the same facial proportions, dark wavy hair, blue-gray eyes, light stubble, athletic build, apparent age and overall identity in every frame.
+2. Adam is an ORIGINAL fictional male with a strong classical leading-man presence. Do not make him an exact depiction of any real actor.
+3. Wardrobe progression:
+   - CLEAN / IDENTITY: pristine exalted state, clean off-white ancient linen.
+   - PARTIAL DEGRADATION: early/middle descent, frayed robes, small tears, dust, sweat and mild grime.
+   - HEAVY DEGRADATION: deepest descent, badly distressed linen, ash, grime and exhaustion while remaining recognizable.
+4. EXPRESSIONS guide the emotional arc: calm/exalted -> alert/cautious -> burdened -> anguished/reaching -> exhausted/defiant -> faint inner hope.
+5. ARCHON RULERS define the ruler design language: silent, ancient, intelligent, cold, imposing, elegant and mostly obscured.
+6. ARCHON HANDS define the symbolic restraining-force design language: dark humanoid hands, elegant and ominous, never graphic.
+7. Do not redesign recurring characters between shots. Continuity is more important than novelty.
+
+STYLE LOCK
+16:9 cinematic widescreen; extremely dark grounded biblical noir; prestige-film realism; deep blacks; desaturated steel-blue shadows; selective pale-gold highlights; hard chiaroscuro; volumetric smoke; wet black stone; ancient monumental ruins; photorealistic skin and linen texture; anamorphic depth; solemn oppressive atmosphere. Keep the visual language grounded and serious rather than comic-book or superhero-like.
+
+CAMERA / QUALITY
+Photorealistic high-budget film stills, realistic anatomy, intentional cinematography, natural lens depth, strong composition, subtle film grain, controlled highlights and a consistent grade across the sequence.
+
+SHOT PLAN
+1. “They pulled him down with jealous will” — Adam transitions downward from a fading white-gold heavenly height toward a vast dark abyss. Archon hands symbolically draw him toward the darkness while he reaches toward the light. Use PARTIAL DEGRADATION.
+2. “A silent force, precise and still” — Adam appears suspended or pressed downward by an unseen force in a vast chamber while Archons surround him in eerie stillness.
+3. “No justice weighed, no balance kept” — Adam stands below a monumental tribunal-like space while Archon rulers loom high above on black stone platforms. Communicate hierarchy and power through composition rather than literal legal symbols.
+4. “Just power where the rulers crept” — Adam moves through a ruined corridor while silent rulers occupy balconies, doorways and shadows around him. A huge shadow crosses the wall.
+5. “They dimmed the light, restrained the breath” — Medium close-up. Adam is on one knee as the last heavenly light closes above him. Shadow-like forms gather around his upper body as a symbolic visual metaphor for suppression. Keep it non-graphic.
+6. “They bound the mind in living death” — Adam is enclosed in a symbolic human-shaped prison or cocoon of black stone, smoke and geometric restraints. His body is confined, but his eyes remain conscious and intelligent. Move toward HEAVY DEGRADATION.
+7. “Into the shadow of death” — Extreme wide shot. Adam descends through an enormous abyss of broken pillars and impossible architecture. The heavenly opening is tiny and distant above him.
+8. “No cry was heard, no war was fought” — Absolute stillness. Adam kneels alone on a wet black stone floor while the rulers watch from far above. There is no battle; the scene feels cold and deliberate.
+9. “Just descent into what they wrought” — Adam descends through the Archons’ broken imitation of creation: shattered temples, monumental faces, ruined statues, empty doorways and impossible black architecture.
+10. ENDING / THE SURVIVING SPARK — At the deepest point, Adam is HEAVILY DEGRADED and exhausted in near-total darkness. A tiny controlled white-gold spark remains within his chest and softly catches his eyes. Keep the hope subtle, not triumphant.
+
+NEGATIVE PROMPT / EXCLUSIONS
+exact celebrity likeness, real-person copy, superhero costume, cape, modern clothing, modern objects, guns, vehicles, sci-fi technology, cartoon, anime, video-game look, cheesy fantasy, bright cheerful palette, graphic injury, gore, blood, zombie anatomy, cliché red devils, obvious horns, goofy expressions, low detail, plastic skin, malformed anatomy, extra fingers, duplicate limbs, inconsistent face, changing hairstyle, changing eye color, random costume redesign, subtitles, captions, text overlay, watermark, logos
+
+OUTPUT REQUIREMENTS
+- Generate each shot as a separate 16:9 still.
+- Preserve Adam’s exact reference identity across all shots.
+- Match wardrobe degradation to chronology.
+- Preserve the same Archon design language throughout.
+- Do not put lyrics or text inside the images.
+- Favor visual storytelling over literal illustration.
+- Before finalizing each image, compare it to the reference sheet and regenerate if Adam’s identity has drifted.
+- Generate one image at a time so continuity can be checked before moving to the next shot.
+
+FIRST ACTION
+Before generating anything, inspect ADAM_REFERENCE_SHEET.jpg carefully. Identify its six labeled sections and internally lock Adam’s identity, the three wardrobe states, the expression progression, the Archon ruler design and the Archon hand design. Then begin with Shot 1.
